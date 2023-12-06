@@ -6,7 +6,7 @@
           "image": "../assets/images/food.jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 1,
@@ -14,7 +14,7 @@
           "image": "../assets/images/food(1).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 2,
@@ -22,7 +22,7 @@
           "image": "../assets/images/food(2).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 3,
@@ -30,7 +30,7 @@
           "image": "../assets/images/food(3).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 4,
@@ -38,7 +38,7 @@
           "image": "../assets/images/food(4).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 5,
@@ -46,7 +46,7 @@
           "image": "../assets/images/food(5).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 6,
@@ -54,7 +54,7 @@
           "image": "../assets/images/food(6).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 7,
@@ -62,7 +62,7 @@
           "image": "../assets/images/food(7).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 8,
@@ -70,7 +70,7 @@
           "image": "../assets/images/food(8).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 9,
@@ -78,7 +78,7 @@
           "image": "../assets/images/food(9).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 10,
@@ -86,7 +86,7 @@
           "image": "../assets/images/food(10).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
         {
           "id": 11,
@@ -94,6 +94,6 @@
           "image": "../assets/images/food(11).jpeg",
           "p": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
           "nborder": 0,
-          "prix": 15,
+          "prix": 15
         },
       ]
