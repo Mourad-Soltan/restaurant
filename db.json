@@ -1,5 +1,4 @@
-{
-  "foods": [
+"foods": [
   {
     id: 0,
     name: "Food Name",
@@ -97,4 +96,4 @@
     prix: 15,
   },
 ]
-}
+
