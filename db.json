@@ -3,7 +3,7 @@
 {
 "id":0,
 "name":"Food Name",
-"image":"require(../assets/images/food.jpeg)",
+"image":"../assets/images/food.jpeg",
 "p":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
 "nborder":0,
 "prix":15
